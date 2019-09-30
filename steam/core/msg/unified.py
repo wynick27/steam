@@ -11,6 +11,8 @@ service_lookup = {
     'ChatUsabilityClient':       'steam.protobufs.steammessages_chat_pb2',
     'ClanChatRooms':             'steam.protobufs.steammessages_chat_pb2',
     'Cloud':                     'steam.protobufs.steammessages_cloud_pb2',
+    'CloudConfigStore':          'steam.protobufs.steammessages_cloudconfigstore_pb2',
+    'CloudConfigStoreClient':    'steam.protobufs.steammessages_cloudconfigstore_pb2',
     'Credentials':               'steam.protobufs.steammessages_credentials_pb2',
     'DataPublisher':             'steam.protobufs.steammessages_datapublisher_pb2',
     'ValveHWSurvey':             'steam.protobufs.steammessages_datapublisher_pb2',
